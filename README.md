@@ -1,1 +1,1 @@
-[![davidsteindl´s GitHub stats](https://github-readme-stats.vercel.app/api?username=davidsteindl)](https://github.com/davidsteindl/github-readme-stats)
+[![davidsteindl´s GitHub stats](https://github-readme-stats.vercel.app/api?username=davidsteindl)](https://github.com/davidsteindl/github-readme-stats icons=true&theme=synthwave)
